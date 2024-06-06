@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "default": "ebuy-3722e"
+  },
+  "targets": {
+    "ebuy-3722e": {
+      "hosting": {
+        "checkout": [
+          "ebuy-checkout-3722e"
+        ],
+        "app-shell": [
+          "ebuy-app-shell-3722e"
+        ],
+        "recommendations": [
+          "ebuy-recommendations-3722e"
+        ],
+        "catalog": [
+          "ebuy-catalog-3722e"
+        ],
+        "store": [
+          "ebuy-datastore-3722e"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
